@@ -1,7 +1,7 @@
 
 
 
-### 👋 Hi, I’m Serhii Lukianenko 
+### 👋 Hi, I’m Serhii
 <br />
 <a href="www.linkedin.com/in/serhiilukianenko/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -10,6 +10,7 @@
  👀 I’m in love with Java and everithing around it
  🌱 Currently growing my hard skills and looking  for new programmers to collaborate on some simple projects
  📫 How to reach me lukyanenko88@gmail.com
+ <br />
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
