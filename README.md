@@ -5,7 +5,12 @@
 <br />
 <a href="www.linkedin.com/in/serhiilukianenko/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <a href="https://join.skype.com/invite/BMJ2StTMqWdi">
+  <img align="left" alt="LinkedIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/skype-3.svg" />
 </a>
+
+
+
 <br />
  👀 I’m in love with Java and everithing around it
  🌱 Currently growing my hard skills and looking  for new programmers to collaborate on some simple projects
