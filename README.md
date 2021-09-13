@@ -12,9 +12,9 @@
 
 
 <br />
-👀 I’m in love with Java and everithing around it
- >>🌱 Currently growing my hard skills and looking  for new programmers to collaborate on some simple projects
- >>📫 How to reach me lukyanenko88@gmail.com
+I’m in love with Java and everithing around it
+Currently growing my hard skills and looking  for new programmers to collaborate on some simple projects
+How to reach me: lukyanenko88@gmail.com
  <br />
 **languages and tools:**  
 
