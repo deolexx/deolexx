@@ -6,7 +6,7 @@
 <a href="www.linkedin.com/in/serhiilukianenko/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   <a href="https://join.skype.com/invite/BMJ2StTMqWdi">
-  <img align="left" alt="LinkedIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/skype-3.svg" />
+  <img align="left" alt="Skype" width="22px" src="https://cdn.worldvectorlogo.com/logos/skype-3.svg" />
 </a>
 
 
